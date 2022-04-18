@@ -1,4 +1,4 @@
-# Drugons-Dungeons_Dice--Arduino
+# Dice-Simulator-Dungeon-And-Dragons-Game
 Vrtual dice for the infamous game Dragons & Dungeons. Run it on your Arduino Uno or use your favorite arduino simulator. 
 
 The game uses various types of polyhedral dices with different numbers of sides (d4, d6, d8, ...). Furthermore, a generated random number represents a sum of multiple throws. E.g., 3d6 means that player should throw 3 times using a dice with 6 sides (cube) and take the sum of these three throws (which is a number between 3 and 18).
